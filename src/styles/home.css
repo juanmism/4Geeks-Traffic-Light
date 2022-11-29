@@ -1,0 +1,78 @@
+body {
+    background-image: url("https://p0.piqsels.com/preview/859/882/340/fullerton-united-states-clock-street.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 800px;
+}
+#padre {
+    text-align: center;
+}
+#container {
+    margin:0px auto;
+    background-color: black;
+    width: 120px;
+    height: 360px;
+    padding-top: 100px;
+}
+.redLigth {
+    
+        height:100px;
+        width:100px;
+        background:red;
+        -moz-border-radius:50px;
+        -webkit-border-radius:50px;
+        border-radius:50px;
+        margin:0px auto;
+        margin-bottom: 10px;
+}
+.yellowLigth {
+    height:100px;
+        width:100px;
+        background: yellow;
+        -moz-border-radius:50px;
+        -webkit-border-radius:50px;
+        border-radius:50px;
+        margin:0px auto;
+        margin-bottom: 10px;
+}
+.greenLigth {
+    height:100px;
+    width:100px;
+    background: green;
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;
+    border-radius:50px;
+    margin:0px auto;
+}
+.redLigthFlash {
+    height:100px;
+    width:100px;
+    background: red;
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;
+    border-radius:50px;
+    box-shadow: 0 0 100px white;
+    margin:0px auto;
+    margin-bottom: 10px;
+}
+.yellowLigthFlash {
+    height:100px;
+    width:100px;
+    background: yellow;
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;
+    border-radius:50px;
+    box-shadow: 0 0 100px white;
+    margin:0px auto;
+    margin-bottom: 10px;
+    
+}
+.greenLigthFlash {
+    height:100px;
+    width:100px;
+    background: green;
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;
+    border-radius:50px;
+    box-shadow: 0 0 100px white;
+    margin:0px auto;
+}
